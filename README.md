@@ -1,6 +1,6 @@
 # 😊 Welcome
 
-<table width="100%" border="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="75%" valign="top">
 
@@ -78,7 +78,7 @@
 
 # 📧 Contact Me
 
-<table width="100%" cellpadding="10" border="0" align="center">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
 <tr>
 <td align="center" width="50%">
   <a href="mailto:piotrdusinski01@gmail.com">
