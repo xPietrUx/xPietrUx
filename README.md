@@ -1,16 +1,20 @@
+<table width="100%">
+<tr>
+<td width="75%" valign="top">
+
 # 😊 Welcome
 
-<div style="display:flex;align-items:center;justify-content:space-between">
-<div style="flex:2;display:flex;flex-direction:column;">
- <p>👋 Hello, I'm Piotr!</p>
- <p>💡 3rd-year Computer Science student and certified Programmer Technician.</p>
- <p>🖥️ Currently specializing in DevOps and Full-Stack Development, with a strong focus on Kubernetes (K8s) and backend database cooperation.</p>
- <p>🎯 Actively seeking a Junior Full-Stack or DevOps Internship to translate hands-on experience from personal projects into a commercial environment.</p>
-</div>
-<div style="flex:1;display:flex;justify-content:end">
- <img src="./docs/images/pusheen-sunglasses.gif" alt="Pusheen Sunglasses" width=200px/>
-</div>
-</div>
+<p>👋 Hello, I'm Piotr!</p>
+<p>💡 3rd-year Computer Science student and certified Programmer Technician.</p>
+<p>🖥️ Currently specializing in DevOps and Full-Stack Development, with a strong focus on Kubernetes (K8s) and backend database cooperation.</p>
+<p>🎯 Actively seeking a Junior Full-Stack or DevOps Internship to translate hands-on experience from personal projects into a commercial environment.</p>
+
+</td>
+<td width="25%" align="center" valign="middle">
+ <img src="./docs/images/pusheen-sunglasses.gif" alt="Pusheen Sunglasses" width="200"/>
+</td>
+</tr>
+</table>
 
 # ⚙️ Tech Stack
 
@@ -74,23 +78,25 @@
 
 # 📧 Contact Me
 
-<div style="display:flex;justify-content:space-between">
-<div style="flex:1;display:flex;flex-direction:column;align-items:center;">
-<a href="mailto:piotrdusinski01@gmail.com">
- <img src="https://skillicons.dev/icons?i=gmail"  />
-</a>
- <p><a href="mailto:piotrdusinski01@gmail.com">piotrdusinski01@gmail.com</a></p>
-</div>
-<div style="flex:1;display:flex;flex-direction:column;align-items:center;">
-<a href="https://www.linkedin.com/in/piotr-dusi%C5%84ski-305040285/">
- <img src="https://skillicons.dev/icons?i=linkedin"  />
-</a>
- <p><a href="https://www.linkedin.com/in/piotr-dusi%C5%84ski-305040285/">linkedin.com/in/piotr-dusi%C5%84ski-305040285/</a></p>
-</div>
-</div>
+<table width="100%" cellpadding="10">
+<tr>
+<td align="center" width="50%">
+  <a href="mailto:piotrdusinski01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <p><a href="mailto:piotrdusinski01@gmail.com">piotrdusinski01@gmail.com</a></p>
+</td>
+<td align="center" width="50%">
+  <a href="https://www.linkedin.com/in/piotr-dusi%C5%84ski-305040285/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <p><a href="https://www.linkedin.com/in/piotr-dusi%C5%84ski-305040285/">linkedin.com/in/piotr-dusiński</a></p>
+</td>
+</tr>
+</table>
 
 #
 
-<div style="text-align:center;font-size:2em">
-🤗 Thank you for your attention ❤️
+<div align="center">
+  <h3>🤗 Thank you for your attention ❤️</h3>
 </div>
