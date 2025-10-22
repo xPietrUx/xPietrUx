@@ -1,8 +1,8 @@
-<table width="100%">
+# 😊 Welcome
+
+<table width="100%" border="0">
 <tr>
 <td width="75%" valign="top">
-
-# 😊 Welcome
 
 <p>👋 Hello, I'm Piotr!</p>
 <p>💡 3rd-year Computer Science student and certified Programmer Technician.</p>
@@ -78,7 +78,7 @@
 
 # 📧 Contact Me
 
-<table width="100%" cellpadding="10">
+<table width="100%" cellpadding="10" border="0" align="center">
 <tr>
 <td align="center" width="50%">
   <a href="mailto:piotrdusinski01@gmail.com">
