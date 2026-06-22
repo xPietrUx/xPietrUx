@@ -58,22 +58,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=xPietrUx&show_icons=true" />
   </picture>
  </a>
- <a href="https://github.com/xPietrUx">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=xPietrUx&row=1&theme=radical&column=6&margin-h=15&margin-w=5&no-bg=true&no-frame=true&bg_color=10000000"/>
- </a>
- <a href="https://github.com/xPietrUx">
-  <picture height="180em">
-   <source
-     srcset="https://nirzak-streak-stats.vercel.app/?user=xPietrUx&theme=dark&hide_border=true&background=10000000"
-     media="(prefers-color-scheme: dark)"
-   />
-   <source
-     srcset="https://nirzak-streak-stats.vercel.app/?user=xPietrUx&hide_border=true&background=10000000"
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-   />
-   <img src="https://github-readme-stats.vercel.app/api?username=xPietrUx&show_icons=true" />
-  </picture>
- </a>
 </div>
 
 # 📧 Contact Me
