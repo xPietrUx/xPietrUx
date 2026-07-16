@@ -6,8 +6,8 @@
 
 <p>👋 Hello, I'm Piotr!</p>
 <p>💡 3rd-year Computer Science student and certified Programmer Technician.</p>
-<p>🖥️ Currently specializing in DevOps and Full-Stack Development, with a strong focus on Kubernetes (K8s) and backend database cooperation.</p>
-<p>🎯 Actively seeking a Junior Full-Stack or DevOps Internship to translate hands-on experience from personal projects into a commercial environment.</p>
+<p>🖥️ Currently specializing in DevOps and Infrastructure Development, with a strong focus on Kubernetes (K8s) and database administration.</p>
+<p>🎯 Actively seeking a Junior DevOps job to translate hands-on experience from personal projects into a commercial environment.</p>
 
 </td>
 <td width="25%" align="center" valign="middle">
@@ -16,49 +16,34 @@
 </tr>
 </table>
 
-# ⚙️ Tech Stack
-
-### My skills in DevOps:
-
 <div align="center">
  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,windows,linux,bash,arch,ubuntu,debian,grafana,prometheus"/>
 </div>
+<br>
 
-### My skills in FullStack:
+# 🗂️ Projects
 
-<div align="center">
- <img src="https://skillicons.dev/icons?i=ts,svelte,react,electron,dotnet,django,fastapi,mysql,postgresql,nginx,nodejs,opencv,spring,expressjs,vite"/>
-</div>
-<br><br>
+### 🌍 Commercial Deployments
 
-# 📊 GitHub Stats
+- **[(Docker, Github Actions) Bogrom-Site](https://github.com/xPietrUx/bogrom-site)**: End-to-end commercial VPS deployment of a Full-Stack application, fully automated via GitHub Actions with tests, featuring SSL/TLS management (Certbot) and containerized reverse proxy routing.
 
-<div align="center">
- <a href="https://github.com/xPietrUx">
-  <picture height="180em">
-   <source
-     srcset="https://github-readme-stats.vercel.app/api?username=xPietrUx&show_icons=true&theme=dark&hide_border=true&bg_color=10000000"
-     media="(prefers-color-scheme: dark)"
-   />
-   <source
-     srcset="https://github-readme-stats.vercel.app/api?username=xPietrUx&show_icons=true&hide_border=true&bg_color=10000000"
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-   />
-   <img src="https://github-readme-stats.vercel.app/api?username=xPietrUx&show_icons=true" />
-  </picture>
-  <picture height="180em">
-   <source
-     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xPietrUx&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=10000000"
-     media="(prefers-color-scheme: dark)"
-   />
-   <source
-     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xPietrUx&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=10000000"
-     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-   />
-   <img src="https://github-readme-stats.vercel.app/api?username=xPietrUx&show_icons=true" />
-  </picture>
- </a>
-</div>
+### 🔄 CI/CD
+
+- **[(Jenkins) Blue-Green Deployment](https://github.com/xPietrUx/jenkins-blue-green)**: Designed a Zero-Downtime deployment pipeline utilizing Jenkins, Docker Socket Proxy, and Nginx reverse proxy with dynamic `SIGHUP` reloads and automated smoke tests.
+
+### 🏗️ Infrastructure as Code (IaC)
+
+- **[(Ansible) Hybrid-Cloud Automation](https://github.com/xPietrUx/ansible-iac-winsrv-linux)**: Developed strictly idempotent Ansible playbooks to provision and harden mixed Debian/Windows Server 2025 environments, featuring self-signed SSH CA and Software-Defined Storage (RAID1/Storage Spaces).
+
+### ☁️ Cloud Architecture & MLOps
+
+- **[(AWS) AI Log Analyzer](https://github.com/xPietrUx/Log-Analyzer-AI-AWS)**: Architected a secure AWS ecosystem (VPC, EC2 `m7i-flex`) deploying local LLMs (Ollama/Gemma3) inside Docker containers with strict Security Group network isolation.
+
+### 🔜 Ongoing:
+
+- K8s architecture
+- Terraform
+- Full architectures (bare metal/cloud) with all mentioned above
 
 # 📧 Contact Me
 
