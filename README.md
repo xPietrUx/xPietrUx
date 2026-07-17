@@ -6,7 +6,7 @@
 
 <p>👋 Hello, I'm Piotr!</p>
 <p>💡 3rd-year Computer Science student and certified Programmer Technician.</p>
-<p>🖥️ Specializing in DevOps: Infrastructure as Code (Ansible), CI/CD automation (Jenkins, GitHub Actions), and multi-cloud architecture (AWS, GCP) — with hands-on security practices baked into every layer, from SSH CAs to container hardening.</p>
+<p>🖥️ Specializing in DevOps: Infrastructure as Code (Ansible), CI/CD automation (Jenkins, GitHub Actions), and multi-cloud architecture (AWS, GCP) - with hands-on security practices baked into every layer, from SSH CAs to container hardening.</p>
 <p>☸️ Currently deepening my Kubernetes foundations, building toward production-grade cluster management.</p>
 <p>🎯 Actively seeking a Junior DevOps job to translate hands-on experience from personal projects into a commercial environment.</p>
 
