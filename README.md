@@ -41,9 +41,9 @@
 - **[(AWS) AI Log Analyzer](https://github.com/xPietrUx/Log-Analyzer-AI-AWS)**: Architected a secure AWS ecosystem (VPC, EC2 `m7i-flex`) deploying local LLMs (Ollama/Gemma3) inside Docker containers with strict Security Group network isolation.
 - **[(GCP) Cloud AI Sentiment Analyzer](https://github.com/xPietrUx/Cloud-AI-Geolocation-Sentiment-Analyzer)**: Containerized Flask app combining GCP Natural Language & Maps APIs, with application-level SecOps — XSS input sanitization (`bleach`), `.env`-based secret management, and read-only credential mounts in Docker.
 
-### ☸️ **(Work in progress)** Kubernetes & Observability
+### ☸️ Kubernetes & Observability
 
-- **[(Minikube) Mini-K8s-Monitoring](https://github.com/xPietrUx/Mini-k8s-monitoring)**: Deliberately over-engineered a university backend assignment into a Distributed Systems Observability sandbox — custom Python microservices simulating CPU/RAM/disk-I/O load, deployed on Minikube with Prometheus/Grafana auto-discovery.
+- **[(Minikube) Mini-K8s-Monitoring](https://github.com/xPietrUx/Mini-k8s-monitoring)**: Hardened a synthetic-workload observability stack (Prometheus, Grafana, Flask/Express microservices) from "it works" to production-grade practice — least-privilege RBAC verified with `kubectl auth can-i`, non-root `securityContext` with dropped capabilities, Kubernetes-native service discovery, and Secrets/PVC replacing hardcoded passwords and ephemeral storage.
 
 ### 🚧 Ongoing:
 
