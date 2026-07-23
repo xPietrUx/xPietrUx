@@ -43,7 +43,7 @@
 
 ### ☸️ Kubernetes & Observability
 
-- **[(Minikube) Mini-K8s-Monitoring](https://github.com/xPietrUx/Mini-k8s-monitoring)**: Hardened a synthetic-workload observability stack (Prometheus, Grafana, Flask/Express microservices) from "it works" to production-grade practice — least-privilege RBAC verified with `kubectl auth can-i`, non-root `securityContext` with dropped capabilities, Kubernetes-native service discovery, and Secrets/PVC replacing hardcoded passwords and ephemeral storage.
+- **[(Minikube) Mini-K8s-Monitoring](https://github.com/xPietrUx/Mini-k8s-monitoring)**: Hardened a synthetic-workload observability stack (Prometheus, Grafana, Flask/Express microservices) from "it works" to production-grade practice - least-privilege RBAC verified with `kubectl auth can-i`, non-root `securityContext` with dropped capabilities, Kubernetes-native service discovery, and Secrets/PVC replacing hardcoded passwords and ephemeral storage.
 
 ### 🚧 Ongoing:
 
