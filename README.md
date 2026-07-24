@@ -34,7 +34,7 @@
 
 ### 🏗️ Infrastructure as Code (IaC)
 
-- **[(Ansible) Hybrid-Cloud Automation](https://github.com/xPietrUx/ansible-iac-winsrv-linux)**: Developed strictly idempotent Ansible playbooks to provision and harden mixed Debian/Windows Server 2025 environments, featuring self-signed SSH CA and Software-Defined Storage (RAID1/Storage Spaces).
+- **[(Ansible) Hybrid-Cloud Automation](https://github.com/xPietrUx/ansible-iac-winsrv-linux)**: Developed strictly idempotent Ansible playbooks to provision and harden mixed Debian/Windows Server 2025 environments, Software-Defined Storage (RAID1/Storage Spaces).
 
 ### ☁️ Multi-Cloud Architecture
 
@@ -47,7 +47,6 @@
 
 ### 🚧 Ongoing:
 
-- Refactoring Mini-K8s-Monitoring into Helm Charts + deployment on managed cloud K8s (EKS)
 - Terraform
 - Full architectures (bare metal/cloud) combining all of the above
 
