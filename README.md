@@ -18,7 +18,7 @@
 </table>
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,amazonwebservices,gcp,windows,linux,bash,arch,ubuntu,debian,grafana,prometheus"/>
+ <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,amazonwebservices,gcp,windows,linux,bash,arch,ubuntu,debian,grafana,prometheus,terraform"/>
 </div>
 <br>
 
@@ -34,6 +34,8 @@
 
 ### 🏗️ Infrastructure as Code (IaC)
 
+- **[(Terraform) AWS HA Architecture](https://github.com/xPietrUx/terraform-aws-ha-architecture)**: Multi-AZ, production-style AWS infrastructure built with zero pre-built modules — VPC with routing-level data-tier isolation, chained security groups, redundant NAT instances, ALB/ASG, and RDS Multi-AZ with AWS Secrets Manager-managed credentials.
+
 - **[(Ansible) Hybrid-Cloud Automation](https://github.com/xPietrUx/ansible-iac-winsrv-linux)**: Developed strictly idempotent Ansible playbooks to provision and harden mixed Debian/Windows Server 2025 environments, Software-Defined Storage (RAID1/Storage Spaces).
 
 ### ☁️ Multi-Cloud Architecture
@@ -47,7 +49,6 @@
 
 ### 🚧 Ongoing:
 
-- Terraform
 - Full architectures (bare metal/cloud) combining all of the above
 
 # 📧 Contact Me
